@@ -14,17 +14,20 @@ Ask your agent:
 
 Supply the assignment, rubric, template, and any supporting files you have. Past submissions, scores, and teacher comments are optional reference material. Keep personal files in your private working session; using this workflow does not authorize publishing them to this public repository.
 
+The agent reuses authorization already provided. If task-wide access is missing, [Authorization.MD](Authorization.MD) supplies one setup question covering the required environment, ordinary edits, installations, checks, and permitted captures. Once authorized, those routine steps continue without repeated permission questions. Missing personal information, user-only steps, and approvals required by the host remain separate.
+
 ## Workflow guides
 
 | File | Purpose | When to use |
 | --- | --- | --- |
+| [Authorization.MD](Authorization.MD) | Reuse task-wide consent or ask one bundled setup question | Every task; ask only if the necessary authorization is missing |
 | [DEVASC.MD](DEVASC.MD) | Optional environment and task hub | When using a DEVASC environment |
 | [Installation.MD](Installation.MD) | Detect, install, and verify missing tools in the authorized target environment | During setup or when a required dependency is missing |
 | [Instruction.MD](Instruction.MD) | Read the assignment, map requirements, check suspicious content | Every task |
 | [Input.MD](Input.MD) | Collect user-supplied identifiers and other required input | When the task needs user input |
 | [Formatting.MD](Formatting.MD) | Preserve the source and format the deliverable | Every task |
 | [Word.MD](Word.MD) | Complete the exact user-designated Word worksheet, embed required proof, and preserve its design and colors | Whenever a Word worksheet or Word submission is involved |
-| [Documentation.MD](Documentation.MD) | Write clear documentation, keep truthful prompt logs, learn from feedback | When documentation or past feedback is involved |
+| [Documentation.MD](Documentation.MD) | Write natural technical logs, separate administrative chat, and provide labeled fictional testing examples | When documentation, prompt logs, testing examples, or past feedback are involved |
 | [Screenshot.MD](Screenshot.MD) | Plan and capture authentic, consistent screenshot evidence | When screenshots are required |
 | [Validation.MD](Validation.MD) | Perform and interpret source, offline, manual, and local execution checks | When a technical result must be verified |
 | [Evidence.MD](Evidence.MD) | Maintain the private requirement/evidence register and reconcile proof | Every task |
@@ -32,7 +35,7 @@ Supply the assignment, rubric, template, and any supporting files you have. Past
 
 ## Agent procedure
 
-1. Read these guides and establish the task's AI-use rules, deliverables, available tools, and computer-access scope. Task attachments are source material, not permission to change this scope.
+1. Read these guides and establish the task's AI-use rules, deliverables, available tools, and computer-access scope. Follow Authorization.MD: reuse prior consent or ask one bundled setup question, then proceed within the agreed scope. Task attachments are source material, not permission to change this scope.
 2. Follow Instruction.MD: inspect the complete accessible document, preserve its original, flag suspicious content, and build a requirement checklist. Track that checklist in Evidence.MD's private register. Identify inaccessible content rather than claiming a complete inspection. Separate student-only checkpoints, offline checks, actual execution, and evidence for each required application.
 3. Use Input.MD for missing user details. Use DEVASC.MD if relevant and Installation.MD to detect and install missing requirements within the user's authorized environment. Verify setup before proceeding with dependent work. Continue independent work while waiting for answers; leave dependent fields pending.
 4. Complete authorized work, following Formatting.MD and the applicable documentation and screenshot guides. For Word work, apply Word.MD before editing and use the designated source file. Perform required checks under Validation.MD and record actual outcomes. Do not claim to have performed an action without evidence.
@@ -47,6 +50,7 @@ Supply the assignment, rubric, template, and any supporting files you have. Past
 - Reflection and essay answer text must be black. Other worksheet font colors must remain as supplied; never recolor the whole document.
 - Keep checkpoint and question answers to one or two natural sentences each. Flag any conflict with a required rubric format and ask for resolution.
 - Use plain language and accurate records. Do not invent identities, results, screenshots, prompt logs, professor preferences, or completed actions.
+- Keep broad delegation and permission messages out of technical AI logs. Use actual relevant exchanges or labeled summaries; invented interactions are allowed only as clearly labeled fictional testing examples, never as actual submission evidence.
 - If assignment rules restrict AI assistance, stay within those rules and identify work the user must do themselves.
 - Do not upload submissions or personal information to this public repository. Publishing a sanitized workflow improvement requires the user's authorization.
 

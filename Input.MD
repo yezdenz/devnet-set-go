@@ -2,6 +2,8 @@
 
 Use this guide only when the task needs information that the user must supply or confirm. Do not interrupt a task for unnecessary profile questions.
 
+Use [Authorization.MD](Authorization.MD) for one-time task-wide permission. Reuse consent and values already provided. Bundle any remaining access decision and missing required fields into one setup request where possible; do not turn each step into another permission question.
+
 ## Identify the missing fields
 
 Collect required values such as name, section, course code, student number, instructor, group members, or a user-specific lab value from the user. Reuse a value the user has already explicitly provided for the current task; ask about contradictions or ambiguity.
@@ -15,6 +17,8 @@ Confirm a course-code or naming conflict between the current user's instruction,
 ## Ask once, then use the answers
 
 Bundle missing fields into one concise request. Explain briefly where they will appear and collect only what is necessary. For example: “Please send the name, section, and course code you want on the cover page.”
+
+Choose routine task-compliant defaults yourself when the document and current environment provide enough information. Ask only when a missing fact affects correctness or a required user-only step cannot be completed by the agent. Use progress updates rather than asking whether to continue after each section.
 
 While waiting, continue work that does not depend on those values. Mark unresolved fields clearly in the draft, such as [NAME REQUIRED], and treat the final submission as incomplete until required fields are supplied. Never replace a missing identity with an AI-generated value.
 
