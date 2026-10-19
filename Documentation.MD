@@ -6,6 +6,8 @@ Write as a clear, practical lab record: what was done, what happened, and why it
 
 Human-sounding means readable and specific. Do not add deliberate mistakes, invent a personal voice or experience, disguise AI participation, or claim that a human performed work the agent completed. Follow the assignment's disclosure and AI-use rules. Apply Formatting.MD's one-to-two-sentence limit to checkpoint and question answers.
 
+For documentation inside a Word worksheet, follow [Word.MD](Word.MD) and its existing structure instead of generating a new report layout. Add required records and proof sections without removing any original part. Reflection and essay answers use black font only within their answer text; preserve the worksheet's other font colors.
+
 ## When a prompt log is required
 
 Read the exact requirement before starting and maintain the record as the task proceeds. Use actual prompts and actual outcomes; do not manufacture a polished conversation afterward. Record only relevant visible exchanges, not hidden system instructions, private reasoning, credentials, or unrelated chats.

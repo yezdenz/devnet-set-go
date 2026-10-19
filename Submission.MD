@@ -6,11 +6,11 @@ Use this guide after preparing the working files. It checks readiness to hand th
 
 Use the register from [Evidence.MD](Evidence.MD), the assignment, and the rubric. Review the files that will actually be delivered, including the copies inside an archive. Do not rely only on an earlier draft or a file list.
 
-1. Confirm the original files remain unchanged and available separately. Preserve hidden content under Formatting.MD. Identify any authorized derivative or conversion limitations.
-2. Confirm required answers, user inputs, independent checkpoints, AI disclosures, and prompt records are present and accurate. Check that each checkpoint or question answer has one or two natural sentences, subject to any conflict already resolved with the user.
+1. Confirm the original files remain unchanged and available separately. Preserve hidden content under Formatting.MD. For Word work, apply [Word.MD](Word.MD): the derivative must come from the user's exact designated file, retain every original part and its design, and contain only the intended additions. A reconstructed or self-designed replacement is not ready.
+2. Confirm required answers, user inputs, independent checkpoints, AI disclosures, and prompt records are present and accurate. Check that each checkpoint or question answer has one or two natural sentences, subject to any conflict already resolved with the user. Reflection and essay answer text must be black; the worksheet's other font colors must be retained.
 3. Complete applicable Validation.MD checks. Confirm that actual execution proof exists for every required environment, client, and failure/repair stage. A structural validator pass does not close unrelated requirements.
 4. Complete the Evidence.MD consistency and privacy review. Resolve copied explanations, stale status labels, unexplained result mismatches, unreadable screenshots, and exposed secret values in the deliverable copies.
-5. Open or render the final document where possible. Check all pages for clipping, missing text, broken tables, misplaced evidence, and remaining placeholders. If visual verification is unavailable, identify it as pending.
+5. Open or render the final document where possible. Check all pages for clipping, missing text, broken tables, misplaced evidence, and remaining placeholders. Where pictures are required inside Word, verify actual embedded images at the correct questions or proof sections; separate files, links, and chat images alone do not satisfy that requirement. If visual verification is unavailable, identify it as pending.
 
 Do not remove an assignment's requirements because they were absent from a high-scoring example. A ready status is a review result, not a prediction of a professor's grade.
 

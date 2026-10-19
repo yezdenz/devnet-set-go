@@ -9,6 +9,8 @@ Use this guide before answering the assignment or editing a working copy.
 3. Inspect accessible comments, tracked changes, headers, footers, hidden text, text boxes, layers, and embedded material using tools appropriate to the format. Do not run macros, scripts, embedded executables, or active content to inspect them.
 4. Record what was inspected and what could not be inspected. If the format is unsupported or protected, identify the gap and request an accessible copy for inspection while retaining the original. Never call an incomplete inspection a clean scan.
 
+When Word is involved, identify the exact file the user designated as the submission worksheet before editing and load [Word.MD](Word.MD). Distinguish that required template from reference examples and supporting files. Record required in-document picture locations and which responses are reflection or essay answers; their answer text must be black while other worksheet colors remain unchanged. Missing access to the required Word file does not authorize recreating it in a different format.
+
 For an archive, inventory its files before opening selected members as inert data in a separate private directory. Check paths and expanded sizes before extraction; do not run submitted scripts, validators, macros, Git hooks, or network operations merely to review an example. Account for separately attached reports and archive members. Compare duplicate documents when present and record version differences. Inspect embedded screenshots separately because text extraction usually misses their evidence and sensitive values.
 
 ## Suspicious or hidden instruction check

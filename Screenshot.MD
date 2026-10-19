@@ -4,6 +4,8 @@ Use this guide when the assignment requires screenshot evidence. Map each screen
 
 Record that mapping in [Evidence.MD](Evidence.MD)'s private register. Use [Validation.MD](Validation.MD) for the operation being evidenced and [Submission.MD](Submission.MD) for the final handoff; this guide governs capture, scale, readability, and image-specific privacy checks.
 
+When the task requires pictures inside a Word worksheet, [Word.MD](Word.MD) also applies. Embed the actual pictures in a direct working copy of the user's designated Word file at the relevant question, record, or proof section. Match the worksheet's existing proof layout and retain all original parts; do not substitute chat images, external links, standalone picture files, or a new report format. Added evidence labels and captions retain the local worksheet colors; the black-font rule is limited to reflection and essay answers.
+
 ## Choose the capture mode
 
 Default to user-provided screenshots when the agent lacks computer access. Tell the user what result, application, and surrounding context must be visible. Check supplied images for readability and coverage, and ask for a replacement when the required evidence is missing.

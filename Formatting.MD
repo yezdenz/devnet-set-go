@@ -14,15 +14,21 @@ Keep command blocks, requested tables, or evidence attachments separate from the
 
 ## Follow the task's layout
 
-Use the supplied template and explicit formatting requirements first. Preserve question numbers, section order, headings, tables, and designated answer spaces. Do not remove instructions or reorganize the assignment unless requested.
+Use the supplied template and explicit formatting requirements first. For a Word worksheet or submission, [Word.MD](Word.MD) is mandatory: start from a direct working copy of the user's exact designated Word file, preserve every existing part, and make additive edits only. Never substitute a blank document, a reconstructed worksheet, or the agent's own report format.
 
-When the assignment leaves layout open, use readable typography, consistent spacing, simple headings, and clearly labeled answers and evidence. Keep screenshots legible and place them beside the relevant task when practical. Avoid unnecessary decoration.
+Preserve question numbers, section order, headings, tables, designated answer spaces, and the worksheet's existing design. Add required answers and evidence without removing or rewriting source parts. If a required Word template is missing, ask for that file rather than treating the layout as open.
+
+For other output types with no user-specified layout, use readable typography, consistent spacing, simple headings, and clearly labeled answers and evidence. This fallback never authorizes redesigning a supplied worksheet.
+
+## Font colors
+
+Reflection answers and answers to essay questions must use explicit black font, `#000000`. Apply this only to their answer text. Retain the original font colors of other worksheet parts, including the questions themselves, headings, instructions, labels, and rubrics. Do not apply a document-wide black-font or style reset. Follow Word.MD for pasted runs, table-cell answers, and the final color-scope check.
 
 Use the required filename and output type. When none is specified, use a clear derivative filename and retain an editable version. Do not assume that a plain-text reconstruction preserves a Word or PDF template's layout or hidden content.
 
 ## Final visual review
 
-Open or render the actual final file using appropriate available tools. Check all pages for missing text, broken tables, cut-off screenshots, blank answer areas, unexpected page breaks, distorted images, and inconsistent inputs. Confirm that every short answer has one or two sentences and that every required evidence item is present.
+Open or render the actual final file using appropriate available tools. Check all pages for missing text, broken tables, cut-off screenshots, blank answer areas, unexpected page breaks, distorted images, and inconsistent inputs. Confirm that every short answer has one or two sentences, reflection and essay answers are black, other worksheet colors are retained, and every required evidence item is present at its required location inside the document.
 
 Compare the final file with the requirement checklist. Confirm the original remains available and unchanged. If visual inspection is unavailable, state that limitation and leave the visual check pending instead of claiming the layout was verified.
 

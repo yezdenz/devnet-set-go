@@ -12,6 +12,8 @@ Start from the checklist in Instruction.MD. Use one row per assessable requireme
 
 For document-only requirements, the observed result may be the inspected answer, formatting, or packaged file. Do not invent a runtime check for a requirement that has none. Add new rows when later instructions reveal additional requirements; preserve the reason for a changed interpretation.
 
+For Word submissions, apply [Word.MD](Word.MD) and record the designated source file, original-preservation check, retention of every original part, and each required embedded picture's location in the final Word file. Track black reflection/essay answer text and retention of other worksheet colors as separate formatting checks. A standalone image's existence does not establish that it is embedded in the submitted document.
+
 ## Use statuses consistently
 
 | Status | Meaning |
