@@ -35,3 +35,5 @@ Check images embedded inside documents as well as standalone attachments. Ensure
 Before delivering an archive, inspect its file listing and reopen the relevant packaged files. Verify the required archive name, course code, folder structure, report, data, code, test or validator evidence, prompt record, and any requested history. Include local Git history when the assignment explicitly requires it; do not discard it simply because it is hidden. Review it for secrets before sharing, and preserve the original if a separate sanitized derivative is needed.
 
 Apply the current user's one-to-two-sentence answer limit even when a high-scoring older example uses longer answers. A past grade is reference evidence, not permission to copy its inconsistencies or override current requirements.
+
+Use [Submission.MD](Submission.MD) for the final readiness decision and package check. A successful formatting review closes only the applicable formatting requirements in [Evidence.MD](Evidence.MD); it does not establish that technical execution or other deliverables are complete.

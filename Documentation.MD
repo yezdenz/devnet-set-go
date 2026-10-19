@@ -24,22 +24,11 @@ Preserve short follow-up prompts exactly when the activity requests exact prompt
 
 ## Independent validation and local execution
 
-Record separate evidence for each validation layer the task requires:
+Use [Validation.MD](Validation.MD) to perform required checks and [Evidence.MD](Evidence.MD) to record and reconcile their proof. Link log entries to that private register rather than keeping a competing completion checklist. Apply [Submission.MD](Submission.MD) before the final handoff.
 
-| Layer | What it can establish | What it does not establish on its own |
-| --- | --- | --- |
-| Source or documentation review | A reasoned expected result or supported design | That the program or request actually ran |
-| Offline validator or unit tests | The specific checks actually exercised by that run | Unchecked behavior, another application, or live API execution |
-| Manual program or local application run | The observed result in the recorded environment | A separate client's behavior or every automated test |
-| Evidence review | That the packaged proof is readable, relevant, and consistent | Independent authenticity beyond the available provenance |
+In the narrative, separate expected behavior, observed behavior, and the conclusion supported by the evidence. Identify supplied historical evidence as supplied evidence; do not describe it as a fresh run. Attribute checks to the person or agent who actually performed them. A technical explanation or AI recommendation is not execution evidence.
 
-Save the command or operation, relevant working directory and environment, tested file version or revision where available, actual output or response, and the evidence location. Identify supplied historical evidence as supplied evidence; a reviewer must not describe it as a fresh run. Do not run an example's code just to improve its historical record.
-
-For API work, record the client, method, target path, non-secret parameters, actual status, and a brief redacted response summary for every required scenario. Keep expected and observed statuses separate. If the local result differs from the manual or validator, preserve the discrepancy and investigate the actual version and request; do not change the observation to match the predicted answer. A controlled failure also needs the separately observed successful repair when the task requires it.
-
-If two clients are required, one client's screenshots cannot satisfy both. If both automated tests and a manual run are required, save distinguishable evidence of each, including the test count and final test result. Label any unavailable layer pending.
-
-Before final delivery, reconcile all pending/completed labels with the actual artifacts. If the log says execution is pending but screenshots show responses, determine what was captured, in which client, and for which version before updating the record. Ask about missing provenance instead of inventing it. Check required Git branches, milestones, and merge/conflict records against available history; label the revision or milestone represented by exported evidence without manufacturing past commits.
+Keep prompt records and validation records aligned. A decision reason must explain its own suggestion, and its linked evidence must support that decision. If the report, screenshots, and log disagree, resolve the mismatch through Evidence.MD before describing the requirement as verified.
 
 ## Review past submissions and scores
 

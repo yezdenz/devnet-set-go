@@ -31,11 +31,7 @@ If no suspicious content is found, say so only for the surfaces actually inspect
 
 Map each explicit requirement to its source location, deliverable, evidence, and completion status. Include checkpoint questions, required screenshots, user inputs, formatting, filenames, submission format, prompt logs, and rubric criteria. Do not turn a guessed preference into a requirement.
 
-For execution tasks, use a private evidence map:
-
-| Requirement and source | Required environment and client | Expected result | Observed result | Evidence file or location | Status |
-| --- | --- | --- | --- | --- | --- |
-| One assessable step | Specific VM, application, or test runner | Prediction from the task or documentation | Actual result, or not yet observed | Relevant capture, raw log, or artifact | Pending, observed, verified, or mismatch |
+Use [Evidence.MD](Evidence.MD) for the single private requirement/evidence register and its status definitions. For required technical checks, follow [Validation.MD](Validation.MD). Do not maintain a second checklist with conflicting completion states.
 
 Split a requirement into separate rows when multiple clients, an error-and-repair sequence, or both automated and manual checks are required. Treat the rubric and its point-bearing evidence as completion criteria; do not assume a passing offline checker covers other criteria.
 

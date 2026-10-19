@@ -17,7 +17,7 @@ Check environment readiness before investing in the final document: the VM start
 Keep a task record in the private working session containing:
 
 - Assignment, template, rubric, and original-file location.
-- Requirement checklist from Instruction.MD and current progress.
+- Private requirement/evidence register from Evidence.MD, initialized from Instruction.MD, and current progress.
 - User inputs collected under Input.MD, with sensitive values excluded from shared summaries.
 - Working-copy location and output format from Formatting.MD.
 - Documentation and prompt-log requirements from Documentation.MD.
@@ -26,6 +26,8 @@ Keep a task record in the private working session containing:
 - Final deliverables, unresolved issues, and checks still needed.
 
 Read the other guides directly; this hub does not replace their requirements. Route each task through the same inspection, input, completion, and review sequence in README.md.
+
+Use [Validation.MD](Validation.MD) for environment-specific checks, [Evidence.MD](Evidence.MD) for their observed proof, and [Submission.MD](Submission.MD) for final readiness. Keep the hub linked to the single register rather than duplicating its status fields.
 
 ## Computer access
 

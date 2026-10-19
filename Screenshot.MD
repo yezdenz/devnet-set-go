@@ -2,6 +2,8 @@
 
 Use this guide when the assignment requires screenshot evidence. Map each screenshot to the requirement it proves before capturing it.
 
+Record that mapping in [Evidence.MD](Evidence.MD)'s private register. Use [Validation.MD](Validation.MD) for the operation being evidenced and [Submission.MD](Submission.MD) for the final handoff; this guide governs capture, scale, readability, and image-specific privacy checks.
+
 ## Choose the capture mode
 
 Default to user-provided screenshots when the agent lacks computer access. Tell the user what result, application, and surrounding context must be visible. Check supplied images for readability and coverage, and ask for a replacement when the required evidence is missing.
