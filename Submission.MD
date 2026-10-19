@@ -26,6 +26,8 @@ Check that required evidence corresponds to the delivered file versions. Explain
 
 Keep a separate original when preparing an authorized redacted package. Review archive members themselves for private data; hiding a value in the report does not remove it from an image, export, or included history.
 
+When Installation.MD was used, include the relevant environment and dependency information in the requested documentation. Keep virtual-environment directories, installer downloads, package caches, and unrelated setup logs out of the submission unless specifically required; preserve the task's actual dependencies and reproducibility information in the form it requests.
+
 ## Choose an accurate handoff status
 
 | Status | Use when | Include in the handoff |

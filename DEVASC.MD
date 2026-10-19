@@ -8,6 +8,8 @@ This guide's optional status does not make an assignment's environment requireme
 
 Ask which environment, application, or lab the user is using when it is not evident. Confirm available files, required software, network or lab access, and the working folder. Do not assume a particular VM, operating system, account, or installed tool.
 
+During setup, follow [Installation.MD](Installation.MD) to detect missing requirements inside the VM. If installation is authorized and the available tools support it, download and install the required tools, verify their versions and availability, and resume the lab. Do not install a host copy as a substitute for a missing guest tool or treat an existing tool's launch problem as proof that it needs reinstallation.
+
 Explain any environment requirement that blocks the task. If computer control is unavailable, provide concise steps for the user to carry out and ask for the resulting evidence. Do not report those steps as completed until confirmed.
 
 Check environment readiness before investing in the final document: the VM starts, the required application is available, and the authorized local service can be reached where the task permits that check. Preparation outside the target environment must be labeled offline preparation. When access is blocked, preserve the work, report the observed limitation, and leave required execution pending; do not bypass an access restriction or silently substitute a public service.
@@ -23,6 +25,7 @@ Keep a task record in the private working session containing:
 - Documentation and prompt-log requirements from Documentation.MD.
 - Screenshot permission, capture profile, and evidence checklist from Screenshot.MD.
 - Actual execution environment, required clients, and the observed evidence for each; keep these separate from expected results and offline validation.
+- Missing dependencies, installation source and outcome, and the interpreter or application path verified inside the target environment.
 - Final deliverables, unresolved issues, and checks still needed.
 
 Read the other guides directly; this hub does not replace their requirements. Route each task through the same inspection, input, completion, and review sequence in README.md.
