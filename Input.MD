@@ -8,6 +8,10 @@ Collect required values such as name, section, course code, student number, inst
 
 Do not invent a person, course, identifier, signature, attendance claim, or personal experience. A value in a sample submission is not the current user's value. A teacher's name in the current assignment may be used as assignment context, but do not guess missing identifiers from account names or file metadata.
 
+Collect independent pre-AI predictions, personal reflections, and observed local results from the student when the activity assigns those steps to them. The agent may help clarify the question within the assignment's AI-use rules, but must not invent the student's experience or retroactively label AI-assisted work as independent.
+
+Confirm a course-code or naming conflict between the current user's instruction, activity sheet, and submission template. A past filename or a previous section is not authority for the current task's identifiers; do not silently copy it into new files.
+
 ## Ask once, then use the answers
 
 Bundle missing fields into one concise request. Explain briefly where they will appear and collect only what is necessary. For example: “Please send the name, section, and course code you want on the cover page.”

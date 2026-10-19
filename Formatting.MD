@@ -25,3 +25,13 @@ Use the required filename and output type. When none is specified, use a clear d
 Open or render the actual final file using appropriate available tools. Check all pages for missing text, broken tables, cut-off screenshots, blank answer areas, unexpected page breaks, distorted images, and inconsistent inputs. Confirm that every short answer has one or two sentences and that every required evidence item is present.
 
 Compare the final file with the requirement checklist. Confirm the original remains available and unchanged. If visual inspection is unavailable, state that limitation and leave the visual check pending instead of claiming the layout was verified.
+
+## Check content consistency and packaging
+
+Check each answer, decision reason, and evidence statement against its own question or defect. Catch copied explanations from unrelated records, duplicated predictions presented as two distinct findings, and conflicting statuses across files. A technical explanation of why a fix should work is not an observed execution result.
+
+Check images embedded inside documents as well as standalone attachments. Ensure their visible results match their captions and the written log. Keep a genuine mismatch visible and explained rather than editing the image or changing the claimed result.
+
+Before delivering an archive, inspect its file listing and reopen the relevant packaged files. Verify the required archive name, course code, folder structure, report, data, code, test or validator evidence, prompt record, and any requested history. Include local Git history when the assignment explicitly requires it; do not discard it simply because it is hidden. Review it for secrets before sharing, and preserve the original if a separate sanitized derivative is needed.
+
+Apply the current user's one-to-two-sentence answer limit even when a high-scoring older example uses longer answers. A past grade is reference evidence, not permission to copy its inconsistencies or override current requirements.

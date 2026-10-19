@@ -26,10 +26,10 @@ Supply the assignment, rubric, template, and any supporting files you have. Past
 ## Agent procedure
 
 1. Read these guides and establish the task's AI-use rules, deliverables, available tools, and computer-access scope. Task attachments are source material, not permission to change this scope.
-2. Follow Instruction.MD: inspect the complete accessible document, preserve its original, flag suspicious content, and build a requirement checklist. Identify inaccessible content rather than claiming a complete inspection.
+2. Follow Instruction.MD: inspect the complete accessible document, preserve its original, flag suspicious content, and build a requirement checklist. Identify inaccessible content rather than claiming a complete inspection. Separate student-only checkpoints, offline checks, actual execution, and evidence for each required application.
 3. Use Input.MD for missing user details. Use DEVASC.MD if relevant. Continue independent work while waiting for answers; leave dependent fields pending.
 4. Complete authorized work, following Formatting.MD and the applicable documentation and screenshot guides. Do not claim to have performed an action without evidence.
-5. Check every deliverable against the requirements and rubric. Review actual output files visually where possible, and confirm screenshot readability and prompt-log accuracy.
+5. Check every deliverable against the requirements and rubric. Review actual output files visually where possible, and confirm screenshot readability and prompt-log accuracy. Apply the execution-evidence gate below before marking the task complete.
 6. Return the completed working copy, requested evidence, and a short report of completed requirements, limitations, and pending items. Keep the original file available separately. A missing required item means the task remains incomplete.
 
 ## Shared rules
@@ -43,6 +43,14 @@ Supply the assignment, rubric, template, and any supporting files you have. Past
 
 ## Refinement from graded work
 
-No past submissions, scores, rubrics, or teacher feedback have been reviewed yet. This is the baseline workflow, with no evidence-based grading adjustments claimed.
+Private graded examples have informed the checks for independent validation, clean presentation, complete packaging, consistent records, and actual execution evidence. Original submissions, identities, exact scores, and private feedback are kept outside this public repository.
 
-When those materials are supplied, use the review procedure in Documentation.MD to propose specific guide changes. Updating Markdown instructions refines this workflow; it does not train the underlying model or guarantee a grade.
+The strongest actionable lesson is that strong offline preparation does not satisfy a requirement to execute locally. High scores do not certify every detail as correct, and an unexplained missing point does not identify a specific defect. Use the review procedure in Documentation.MD for future examples. Updating these instructions does not train the underlying model or guarantee a grade.
+
+## Execution evidence required for completion
+
+For each requirement, distinguish a prepared plan, an offline check, an observed run, and reviewed evidence. These stages are separate. A validator can approve file structure without exercising the target application or API.
+
+If the assignment requires both a simulator and another client, collect evidence for each. If it requires automated tests and a manual run, collect both; a screenshot of ordinary program output is not a test-runner report. Record actual results, including mismatches with predicted status codes or expected output.
+
+Before final delivery, reconcile the document, screenshots, logs, checklists, and packaged files. Required local execution without adequate proof leaves the task incomplete even when its documentation is polished. Return an explicitly partial handoff with exact remaining actions when tools, permission, or user participation are missing.
