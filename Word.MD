@@ -12,6 +12,8 @@ Keep the supplied original unchanged. Make a separately named working copy direc
 
 ## Make additive edits only
 
+Exception for supplied submission checklists: follow [Checklist.MD](Checklist.MD). Within a checklist, preserve all content and formatting and only check existing completion markers for verified finished tasks. Do not add paragraphs, rows, sections, captions, or evidence there. Place any needed answers or proof in the worksheet's designated areas outside the checklist; keep agent review notes in the private register.
+
 Retain every existing part: titles, headings, questions, numbering, instructions, notes, examples, rubrics, tables, labels, images, logos, headers, footers, references, hidden content, comments, tracked changes, and section structure. Do not remove a part because it appears unnecessary or because its task has been answered.
 
 Add answers in the existing blank answer areas or designated editable form fields without deleting printed questions, prompts, or labels. Add content within an existing table cell without clearing its other contents. If a field contains existing text that would have to be removed, do not silently erase it; establish the intended treatment with the user.

@@ -14,6 +14,12 @@ Use the register from [Evidence.MD](Evidence.MD), the assignment, and the rubric
 
 Do not remove an assignment's requirements because they were absent from a high-scoring example. A ready status is a review result, not a prediction of a professor's grade.
 
+## Preserve the supplied submission checklist
+
+Apply [Checklist.MD](Checklist.MD) to every supplied checklist, including one inside a ZIP or Word worksheet. Compare it with the untouched source: retain all original items, wording, order, and formatting, with only verified unchecked-to-checked completion-marker changes. Do not add the agent's notes, requirements, explanations, or status labels. Preserve preexisting checks but verify their claims; unresolved unsupported claims prevent a ready handoff.
+
+Keep the checklist's original filename and relative location in the final package unless the user explicitly directed otherwise. Reopen that packaged copy and verify both preservation and the evidence behind each newly checked item. Report incomplete items, discrepancies, or editing limitations separately in the private register or handoff; do not check an unfinished item. Do not rewrite the checklist to make the submission appear complete.
+
 ## Check the package
 
 Verify the required filename, current user's confirmed identifiers, folder structure, and output formats. Flag conflicts between the activity sheet and naming template rather than silently choosing a course code from an older submission.

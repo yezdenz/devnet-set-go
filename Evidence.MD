@@ -4,13 +4,15 @@ Use this guide for the task's private requirement and evidence register. This re
 
 ## Build one register
 
-Start from the checklist in Instruction.MD. Use one row per assessable requirement, keeping separately required clients, automated/manual checks, and failure/repair stages in separate rows. Record rubric points only when they are explicitly supplied; do not predict a grade.
+Start from the requirement mapping in Instruction.MD. Use one row per assessable requirement, keeping separately required clients, automated/manual checks, and failure/repair stages in separate rows. Record rubric points only when they are explicitly supplied; do not predict a grade.
 
 | ID and source location | Requirement and deliverable | Environment or client | Expected result | Observed result and source | Evidence location and version | Status and next action |
 | --- | --- | --- | --- | --- | --- | --- |
 | Task-specific identifier | One checkable obligation | Required application, client, or document | Expected outcome, or not applicable | Actual observation, who supplied it, or not observed | File/page/capture/log and relevant revision | Use a status below and state remaining work |
 
 For document-only requirements, the observed result may be the inspected answer, formatting, or packaged file. Do not invent a runtime check for a requirement that has none. Add new rows when later instructions reveal additional requirements; preserve the reason for a changed interpretation.
+
+This private register is separate from any supplied submission checklist. Follow [Checklist.MD](Checklist.MD): map each original checklist item to its supporting register rows, and check its existing completion marker only when all of that item's requirements are verified. New register rows, status reasons, discrepancies, and review notes must not be added to or used to rewrite the supplied checklist. Verify preexisting checks independently and record unsupported claims here.
 
 For Word submissions, apply [Word.MD](Word.MD) and record the designated source file, original-preservation check, retention of every original part, and each required embedded picture's location in the final Word file. Track indented and justified prose answer paragraphs, black reflection/essay answer text, and retention of other worksheet colors as formatting checks. A standalone image's existence does not establish that it is embedded in the submitted document.
 

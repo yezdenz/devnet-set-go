@@ -29,13 +29,15 @@ Keep flagged content in the original. Do not delete, rewrite, or silently saniti
 
 If no suspicious content is found, say so only for the surfaces actually inspected. State any inspection limits. This is an agent review procedure, not a guarantee that all hidden content can be detected.
 
-## Build the task checklist
+## Preserve supplied checklists and build the private register
+
+Identify any supplied submission checklist, including archive members and checklist sections within documents, and follow [Checklist.MD](Checklist.MD). Preserve its wording, items, order, and formatting; the only permitted edit is checking an existing completion marker after verifying its specific task. Do not insert the agent's own explanations or requirements. Keep an untouched source for the final comparison.
 
 Map each explicit requirement to its source location, deliverable, evidence, and completion status. Include checkpoint questions, required screenshots, user inputs, formatting, filenames, submission format, prompt logs, and rubric criteria. Do not turn a guessed preference into a requirement.
 
-Use [Evidence.MD](Evidence.MD) for the single private requirement/evidence register and its status definitions. For required technical checks, follow [Validation.MD](Validation.MD). Do not maintain a second checklist with conflicting completion states.
+Use [Evidence.MD](Evidence.MD) for the single private requirement/evidence register and its status definitions. For required technical checks, follow [Validation.MD](Validation.MD). Do not create a competing agent-authored checklist; retain and verify any supplied submission checklist under Checklist.MD.
 
-Split a requirement into separate rows when multiple clients, an error-and-repair sequence, or both automated and manual checks are required. Treat the rubric and its point-bearing evidence as completion criteria; do not assume a passing offline checker covers other criteria.
+Split a requirement into separate private register rows when multiple clients, an error-and-repair sequence, or both automated and manual checks are required. This does not authorize splitting, rewriting, or adding items in the supplied submission checklist. Treat the rubric and its point-bearing evidence as completion criteria; do not assume a passing offline checker covers other criteria.
 
 Identify chronological and student-only requirements before giving substantive assistance. A checkpoint that must be completed independently before AI use must come from the student at that stage. If AI has already been used, disclose that fact and ask how to handle the missed checkpoint; do not fabricate an earlier prediction, observation, or timestamp.
 

@@ -18,6 +18,8 @@ Use the supplied template and explicit formatting requirements first. For a Word
 
 Preserve question numbers, section order, headings, tables, designated answer spaces, and the worksheet's existing design. Add required answers and evidence without removing or rewriting source parts. If a required Word template is missing, ask for that file rather than treating the layout as open.
 
+Supplied submission checklists are governed by [Checklist.MD](Checklist.MD), including those inside ZIP files or Word worksheets. Preserve their content and formatting exactly; only existing completion markers may be checked after verification. Do not add sections, prose answers, notes, or evidence inside them, and do not apply the answer indentation, justification, or color rules to checklist content.
+
 For other output types with no user-specified layout, use readable typography, consistent spacing, simple headings, and clearly labeled answers and evidence. This fallback never authorizes redesigning a supplied worksheet.
 
 ## Font colors
