@@ -24,11 +24,19 @@ For other output types with no user-specified layout, use readable typography, c
 
 Reflection answers and answers to essay questions must use explicit black font, `#000000`. Apply this only to their answer text. Retain the original font colors of other worksheet parts, including the questions themselves, headings, instructions, labels, and rubrics. Do not apply a document-wide black-font or style reset. Follow Word.MD for pasted runs, table-cell answers, and the final color-scope check.
 
+## Answer indentation and alignment
+
+Prose answer paragraphs must be indented and justified, including checkpoint, reflection, and essay answers. Use the template's existing positive first-line answer indent when specified; otherwise use a consistent first-line indent of 0.5 inch (1.27 cm). Set ordinary justified paragraph alignment, without forcing the last line to stretch across the width.
+
+Apply real paragraph settings only to the answer paragraphs. Do not simulate indentation or justification with tabs, repeated spaces, or manual line breaks. Put an answer in its own paragraph when needed so the original question or label keeps its formatting. Preserve the worksheet's margins, question alignment, heading styles, and other source formatting; do not change a shared style that also affects those parts.
+
+For prose answers inside table cells, keep the indent within the cell's usable width; retain a suitable existing first-line indent or use a smaller consistent positive indent if the default would cause clipping. Keep identifiers in form fields, code, commands, exact quoted prompts, captions, and evidence labels in their required local format rather than reflowing them as essay paragraphs. This paragraph-format rule does not expand the black-font rule beyond reflection and essay answers.
+
 Use the required filename and output type. When none is specified, use a clear derivative filename and retain an editable version. Do not assume that a plain-text reconstruction preserves a Word or PDF template's layout or hidden content.
 
 ## Final visual review
 
-Open or render the actual final file using appropriate available tools. Check all pages for missing text, broken tables, cut-off screenshots, blank answer areas, unexpected page breaks, distorted images, and inconsistent inputs. Confirm that every short answer has one or two sentences, reflection and essay answers are black, other worksheet colors are retained, and every required evidence item is present at its required location inside the document.
+Open or render the actual final file using appropriate available tools. Check all pages for missing text, broken tables, cut-off screenshots, blank answer areas, unexpected page breaks, distorted images, and inconsistent inputs. Confirm that prose answers have a consistent positive first-line indent and justified alignment, every short answer has one or two sentences, reflection and essay answers are black, other worksheet colors are retained, and every required evidence item is present at its required location inside the document.
 
 Compare the final file with the requirement checklist. Confirm the original remains available and unchanged. If visual inspection is unavailable, state that limitation and leave the visual check pending instead of claiming the layout was verified.
 

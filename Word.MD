@@ -1,6 +1,6 @@
 # Complete the user's exact Word worksheet
 
-Use this guide whenever the user supplies or designates a Word worksheet, activity sheet, or submission template, or requires a Word submission. It governs template preservation, where answers and pictures are inserted, and the limited black-font rule. Read [Formatting.MD](Formatting.MD), [Screenshot.MD](Screenshot.MD), and [Submission.MD](Submission.MD) alongside it.
+Use this guide whenever the user supplies or designates a Word worksheet, activity sheet, or submission template, or requires a Word submission. It governs template preservation, where answers and pictures are inserted, indented and justified prose answers, and the limited black-font rule. Read [Formatting.MD](Formatting.MD), [Screenshot.MD](Screenshot.MD), and [Submission.MD](Submission.MD) alongside it.
 
 ## Use the designated file without redesigning it
 
@@ -18,9 +18,17 @@ Add answers in the existing blank answer areas or designated editable form field
 
 When more room or a new evidence section is needed, add paragraphs, rows, sections, or pages at the appropriate location using the worksheet's existing formatting. Preserve the sequence and content of all original parts. Use a designated proof area first; if none exists, add a clearly labeled evidence section without replacing or moving existing sections. Do not create a new cover page or redesign the report.
 
-Preserve the template's font families, sizes, colors, spacing, margins, page setup, table design, and existing breaks, subject only to the scoped reflection/essay answer-color rule below. Natural reflow and additional pages caused by the added material are acceptable. Do not shrink or restyle the original worksheet, delete existing breaks, or drop content to force the original page count.
+Preserve the template's font families, sizes, colors, spacing, margins, page setup, table design, and existing breaks, subject only to the scoped answer indentation/alignment and reflection/essay answer-color rules below. Natural reflow and additional pages caused by the added material are acceptable. Do not shrink or restyle the original worksheet, delete existing breaks, or drop content to force the original page count.
 
 Do not flatten editable Word pages into pictures or run a conversion that discards document parts. If an editing method cannot preserve them, stop the affected edit and explain the limitation. A PDF export, if requested, is an additional derivative; it does not replace the editable Word working copy or the original.
+
+## Indent and justify prose answers
+
+All prose answer paragraphs, including checkpoint, reflection, and essay answers, must have a positive first-line indent and ordinary justified alignment. Reuse the template's existing first-line answer indent when one is specified; otherwise use 0.5 inch (1.27 cm). Keep the selected indent consistent for comparable answer areas. For narrow table cells, use a smaller consistent positive indent if needed to keep the text within the cell.
+
+Set paragraph properties on the answers themselves, including pasted answer paragraphs and prose answers inside cells. Do not insert spaces or tabs to imitate alignment, and do not use distributed alignment that stretches the last line. Add a separate answer paragraph when a question and answer would otherwise share formatting; retain all original question text and its styling.
+
+Do not justify or indent the worksheet's questions, headings, labels, captions, screenshots, code blocks, exact prompt quotations, or non-prose form fields under this rule. Preserve their original or required formatting. Check the final layout for excessive spacing, clipped lines, and unwanted changes to the surrounding worksheet. This rule changes answer paragraph formatting only; font colors still follow the scoped rule below.
 
 ## Black font applies only to reflection and essay answers
 
@@ -46,10 +54,10 @@ If required evidence is missing, leave that requirement pending and explain the 
 
 ## Check preservation and the final Word file
 
-Compare the completed working copy with its source before delivery. Confirm every original part remains present and in order, existing images and document objects remain available, worksheet colors outside reflection/essay answer text are unchanged, and only the intended answer/evidence additions and scoped answer-color formatting were made. Check hidden content, comments, and tracked changes separately where tools allow; visual similarity alone is insufficient.
+Compare the completed working copy with its source before delivery. Confirm every original part remains present and in order, existing images and document objects remain available, worksheet colors outside reflection/essay answer text are unchanged, and only the intended answer/evidence additions and scoped answer indentation, alignment, and color formatting were made. Check hidden content, comments, and tracked changes separately where tools allow; visual similarity alone is insufficient.
 
 Inspect the actual final Word file visually or through a faithful render. Check every page for missing source text, damaged tables, clipped answers, broken image placement, and unreadable proof. Confirm that pictures required inside Word are embedded and appear at their mapped locations. Record those locations in Evidence.MD.
 
-Check that every reflection or essay answer is black and that other worksheet font colors are retained. Review local formatting or effective styles, including pasted content, rather than assuming a theme or default is correct. Do not change unrelated text to fix an answer's color.
+Check that every prose answer paragraph is indented and justified, every reflection or essay answer is black, and other worksheet font colors are retained. Review actual paragraph settings and local formatting or effective styles, including pasted content, rather than assuming a theme or default is correct. Do not change unrelated text to fix an answer's formatting.
 
 Confirm the original remains unchanged. Apply Submission.MD to the final derivative and any requested package. If preservation, color scope, embedded evidence, or visual verification cannot be confirmed, report a partial handoff and the specific unresolved check; do not deliver a self-designed replacement and call it the completed worksheet.
